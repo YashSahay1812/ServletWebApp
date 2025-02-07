@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: blue;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding: 10px;
+    list-style-type: none;
+}
